@@ -7,6 +7,6 @@ $> ./jarihaas
 +====================================================+
  📖 TDC @ Senac RS • InfTech
  💻 Robotics Systems • System programming languages
- 💬 English, Talian, Portuguese(BR), Norsk (Bokmål)
+ 💬 English, Tałian, Portuguese(BR)
 +====================================================+
 ```
