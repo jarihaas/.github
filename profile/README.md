@@ -2,11 +2,12 @@
 
 ```cs
 $> ./jarihaas
-+========================================================+
-                     Jari Haas
-+========================================================+
- 📖 TDC @ Senac RS • InfTech | BA @ UNISA • Mechatronics 
++======================================================+
+                     Jåri Haas
++======================================================+
+ 📖 BA @ UFSM • Mechanics | BA @ UNISA • Mechatronics 
+ 🔧 TDC @ Senac RS • InfTech
  💻 Robotics Systems • System programming languages
- 💬 English, Tałian, Portuguese(BR), Ελληνικά
-+========================================================+
+ 💬 English, Ελληνικά, Portuguese(BR), Tałian
++======================================================+
 ```
