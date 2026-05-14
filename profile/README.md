@@ -3,7 +3,7 @@
 ```cs
 $> ./jarihaas
 +======================================================+
-                     Jåri Haas
+ Jari Haas (יאריהאס)
 +======================================================+
  📖 BA @ UFSM • Mechanical Engineering
  🔧 TDC @ Senac RS • InfTech
