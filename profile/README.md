@@ -8,6 +8,6 @@ $> ./jarihaas
  📖 BA @ UFSM • Mechanical Engineering
  🔧 TDC @ Senac RS • InfTech
  💻 Robotics Systems • System programming languages
- 💬 English, Ελληνικά, Portuguese(BR)
+ 💬 English, Ελληνικά, Portuguese(BR), עִבְרִית ,ܣܘܪܝܝܐ
 +======================================================+
 ```
