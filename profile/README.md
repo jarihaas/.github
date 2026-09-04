@@ -8,4 +8,4 @@ Reach me on:
 * Instagram: [@hssjari](https://instagram.com/hssjari)
 * Bluesky: [@jarihaas.bsky.social](https://bsky.app/profile/jarihaas.bsky.social)
 * X: [@hssjari](https://x.com/hssjari)
-* Email: [jarihaas@gmail.com]
+* Email: [jarihaas@gmail.com](mailto:jarihaas@gmail.com)
