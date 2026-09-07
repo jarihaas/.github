@@ -11,4 +11,4 @@ Reach me on:
 * Email: [jarihaas@gmail.com](mailto:jarihaas@gmail.com)
 
 ## Research
-- [Commentary on Euclid's Elements (WIP)](https://drive.google.com/file/d/1dbgu7qiFvji-R3qcGuRhZkIyaT_c9323/view?usp=sharing)
+- [Commentary on Euclid's Elements (WIP)](https://drive.google.com/file/d/1dbgu7qiFvji-R3qcGuRhZkIyaT_c9323/view?usp=sharing): An exegetical and philosophical analysis on Euclid's Elements
